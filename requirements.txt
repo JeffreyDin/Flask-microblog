@@ -19,7 +19,7 @@ Flask-WTF==0.14.2
 guess-language-spirit==0.5.3
 itsdangerous==1.1.0
 Jinja2==2.10
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 moment==0.8.2
 pbr==5.1.2
